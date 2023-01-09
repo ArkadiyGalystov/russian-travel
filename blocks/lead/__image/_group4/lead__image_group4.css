@@ -1,0 +1,31 @@
+.lead__image_group4 {
+  width: 937px;
+  height: 263px;
+  padding: 91px 24px 262px 24px;
+  object-fit: cover;
+  object-position: top;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__image_group4 {
+    width: 884px;
+    height: 249px;
+    padding: 86px 22px 247px 22px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__image_group4 {
+    width: 732px;
+    height: 205px;
+    padding: 71px 19px 205px 19px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image_group4 {
+    width: 305px;
+    height: 86px;
+    padding: 30px 8px 86px 8px;
+  }
+}
