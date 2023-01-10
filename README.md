@@ -1,4 +1,5 @@
 # russian-travel
-Проект: Путешествие по России
-https://arkadiygalystov.github.io/russian-travel/index.html
-# git push
+## Проект: Путешествие по России
+[ссылка на проект] (https://arkadiygalystov.github.io/russian-travel/index.html)
+###### В проекте была использована иконка сайта, которой не было в Фигме.
+###### Добавлен файл .htaccess для ускорения загрузки сайта (думаю он написан верно).
