@@ -1,0 +1,15 @@
+.cover__overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(42 44 47 / 30%);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.cover__overlay:hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(42 44 47 / 80%);
+  cursor: url('../../../images/cursor.png') 4 1, pointer;
+}
