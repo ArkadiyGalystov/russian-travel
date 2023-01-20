@@ -4,4 +4,4 @@
 
 **3. Используются технологии:** html, css, flexbox, БЭМ, grid.
 
-[ссылка на проект] (https://arkadiygalystov.github.io/russian-travel/index.html "test")
+[ссылка на проект (https://arkadiygalystov.github.io/russian-travel/index.html)]
